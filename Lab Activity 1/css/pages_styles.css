@@ -1,0 +1,191 @@
+* {
+ font-family: "Century gothic";
+ letter-spacing: 2px;
+}
+
+/* Remove body margin */
+body {
+    margin: 0;
+}
+
+/* Navigation bar styles */
+.navbar {
+    background-color: #222;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+    z-index: 999;
+}
+
+.navbar a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    padding: 0 20px;
+}
+
+.navbar a:hover {
+    background-color: #333333;
+}
+
+/* Layer 1 Front page */
+ .layer1 {
+     background-color: #333;
+     height: 100vh;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+ }
+
+ /* Left section of Layer 1 */
+ .left-section {
+     flex: 1;
+     display: flex;
+     flex-direction: column;
+     align-items: left;
+     justify-content: left;
+     margin-left: 100px;
+     margin-top: 130px;
+ }
+
+ /* Right section of Layer 1 */
+ .right-section {
+     flex: 1;
+     display: flex;
+     align-items: center;
+     justify-content: right;
+     margin-right: 100px;
+     margin-top: 170px;
+ }
+
+/*Right Profile*/
+.right-profile {
+    width: 450px;
+}
+
+ /* Social media icons */
+ .social-icons {
+     display: flex;
+     margin-top: 20px;
+ }
+
+ .social-icons a {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     text-decoration: none;
+     margin: 0 10px;
+     font-size: 24px;
+ }
+
+ /* Text styles */
+ .layer1 h2 {
+     font-size: 40px;
+     color: #FFF;
+     margin-bottom: 0px;
+ }
+
+ .layer1 h3 {
+     font-size: 90px;
+     color: #fff;
+     margin-top: 0px;
+     margin-bottom: 0px;
+ }
+
+ .layer1 p {
+     font-size: 24px;
+     color: #fff;
+     margin-top: 50px;
+     margin-bottom: 0px;
+ }
+
+ /* Layer 2 Personal */
+ .layer2 {
+     background-color: #494949;
+     height: 75vh;
+     padding-top: 12rem;
+     padding-left: 12rem;
+     align-items: center;
+     justify-content: center;
+ }
+ 
+ .layer2 h1 {
+    font-size: 50px;
+ }
+
+ .layer2 p {
+    color: #fff;
+    font-size: 25px;
+    margin-left: 100px;
+ }
+
+ .layer2 span {
+    font-weight: bold;
+    display: inline-block;
+    width: 200px
+ }
+
+ /* Layer 3 Education */
+ .layer3 {
+     background-color: #333;
+     height: 75vh;
+     padding-top: 12rem;
+     padding-left: 12rem;
+     align-items: center;
+     justify-content: center;
+ }
+
+ .layer3 h1 {
+    font-size: 50px;
+    margin-top: 50px;
+ }
+
+ .layer3 span {
+    font-weight: bold;
+    font-size: 30px;
+    color: #fff;
+    margin-left: 100px;
+ }
+
+ .layer3 p {
+    color: #fff;
+    font-size: 25px;
+    margin-left: 100px;
+ }
+
+ /* Layer 4 Experience */
+ .layer4 {
+     background-color: #494949;
+     height: 70vh;
+     padding-top: 12rem;
+     padding-left: 12rem;
+     align-items: center;
+     justify-content: center;
+ }
+
+ .layer4 h1 {
+    font-size: 50px;
+    margin-top: 50px;
+ }
+
+ .layer4 span {
+    font-weight: bold;
+    font-size: 30px;
+    color: #fff;
+    margin-left: 100px;
+ }
+
+ .layer4 p {
+    color: #fff;
+    font-size: 25px;
+    margin-left: 100px;
+    margin-right: 170px;
+ }
+ 
+
