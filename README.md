@@ -6,9 +6,9 @@ Laboratory Activity #1 - Midterm Creating a Simple Webpage
 
 Submitted by:
 
-Deraco, Princes Shaina Claire
-Dumaraog, Julian Voltaire
-Garcia, Danica
+Deraco, Princes Shaina Claire<br>
+Dumaraog, Julian Voltaire<br>
+Garcia, Danica<br>
 Haber, Jhon Mark
 
 Submitted to: Professor Kris P. Garcia
