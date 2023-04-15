@@ -1,4 +1,4 @@
-# WebDev-Lab1
+# LA1_Group3_Deraco, Dumaraog, Garcia, Haber
 
 (COMP 20163) Web Development
 
